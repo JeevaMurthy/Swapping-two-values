@@ -19,6 +19,23 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+surya_value=int(input())
+
+vijay_value=int(input())
+
+temp=surya_value
+
+surya_value=vijay_value
+
+vijay_value=temp
+
+print("Swapped values are: {0} {1}".format
+
+(surya_value,vijay_value))
+
+## OUTPUT:
+![alt text](<Screenshot 2024-03-03 193030-1.png>)
+
 
 
 ## RESULT:
